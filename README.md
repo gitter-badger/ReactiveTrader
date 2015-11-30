@@ -1,11 +1,17 @@
+[![image](https://raw.githubusercontent.com/AdaptiveConsulting/ReactiveTrader/master/images/adaptive-logo.png)](http://weareadaptive.com/)
+
+[![Build status](https://ci.appveyor.com/api/projects/status/709bcumithtiyj2l?svg=true)](https://ci.appveyor.com/project/Adaptive/reactivetrader)
+
 # What are you looking for?
+
+[![Join the chat at https://gitter.im/AdaptiveConsulting/ReactiveTrader](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AdaptiveConsulting/ReactiveTrader?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
  - [A quick overview](#overview)
  - [Video & Podcast](#video-and-podcast)
  - [Documentation](https://github.com/AdaptiveConsulting/ReactiveTrader/wiki)
  - [Blogs](#blogs)
  - [Training](#training)
- - [Future Announcements](#future-annoucements)
+ - [Future Announcements](#future-announcements)
 
 # Overview
 
@@ -13,18 +19,26 @@ Reactive Trader is a client-server application demonstrating some of the problem
 
 Reactive Trader was written by the team at [Adaptive](http://weareadaptive.com), a consultancy that specialises in building real time trading systems. We have many years of experience in building trading systems for clients with highly demanding latency and reliability requirements. Over the years we have learnt quite a few lessons, and wanted to talk about and point to examples of how we solve technical problems related to real time delivery of messages.
 
-![image](https://f.cloud.github.com/assets/1256913/2470980/8e95e5c6-b01c-11e3-9311-cc17a7c1b191.png)
-
-... talking via Web Socket with ...
-
-![image](https://f.cloud.github.com/assets/1256913/2470993/d7f153ea-b01c-11e3-9c0c-ac8c8261299a.png)
+# Demos
 
 Reactive Trader comes in different flavours (click on the link for a demo)
  
- - [WPF (ClickOnce)](https://reactivetrader.blob.core.windows.net/client/Adaptive.ReactiveTrader.application)
- - [HTML5](https://reactivetrader.azurewebsites.net/)
- - [Windows Store App](http://apps.microsoft.com/windows/app/reactive-trader/a2c622c5-ef66-4653-911f-688fe79ac999)
- - [iOS native app](https://itunes.apple.com/gb/app/reactivetrader/id892239109?mt=8)
+## HTML5
+
+[![image](https://raw.githubusercontent.com/AdaptiveConsulting/ReactiveTrader/master/images/web.png)](https://reactivetrader.azurewebsites.net/)
+
+## iOS native app
+
+[![image](https://raw.githubusercontent.com/AdaptiveConsulting/ReactiveTrader/master/images/ios.png)](https://itunes.apple.com/gb/app/reactivetrader/id892239109?mt=8)
+
+## WPF (ClickOnce)
+
+[![image](https://raw.githubusercontent.com/AdaptiveConsulting/ReactiveTrader/master/images/wpf.png)](https://reactivetrader.blob.core.windows.net/client/Adaptive.ReactiveTrader.application)
+  
+## Windows Store App
+
+[![image](https://raw.githubusercontent.com/AdaptiveConsulting/ReactiveTrader/master/images/winstore.png)](http://apps.microsoft.com/windows/app/reactive-trader/a2c622c5-ef66-4653-911f-688fe79ac999)
+
 
 # Talk
 
@@ -48,7 +62,9 @@ We have written a number of blog posts in which we dive deeper into certain aspe
 
 # Training
 
-We have been using Reactive Extensions since 2010. Lee Campbell, author of [Intro To Rx](http://www.introtorx.com/), runs our Rx training course, [Practical Rx](http://weareadaptive.com/training). We still have places available at our next scheduled course in London, UK, on July 7th and 8th. Tickets are [available here](https://ti.to/adaptive/rxtraining), and you can also [read more about the course](http://weareadaptive.com/training). Reactive Trader makes extensive use of Reactive Extensions, and this course is a great opportunity to learn to think in Rx.
+We have been using Reactive Extensions since 2010. Lee Campbell, author of [Intro To Rx](http://www.introtorx.com/), runs our Rx training course, [Practical Rx](http://weareadaptive.com/training). Reactive Trader makes extensive use of Reactive Extensions, and this course is a great opportunity to learn to think in Rx. 
+
+Learn more about Practical Rx by Lee Campbell on [Adaptive website](http://weareadaptive.com/training)
 
 # Future Announcements
 
